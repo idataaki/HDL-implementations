@@ -1,5 +1,14 @@
-# VHDL-projects
-it contains all projects of VHDL course of the university (5 projets)
+# RTL Design Library
+A growing collection of reusable RTL/HDL implementations for digital design education.
+
+This repository provides synthesizable examples, testbenches, diagrams, and simulation scripts for common and specialized hardware modules in:
+
+- VHDL
+- Verilog
+- SystemVerilog
+
+The goal is to help students, instructors, and FPGA beginners learn practical RTL design through clear, tested, and well-documented examples.
+
 * The two first projects are structural
 * the third, fourth and fifth projects are written with state machine approach
 ## Non-pipelined Convolver
